@@ -14,7 +14,7 @@ PHP Library to generate QR Code payload for PromptPay inspired from [dtinth/prom
 This package available on [Packagist](https://packagist.org/packages/kittinan/php-promptpay-qr), Install the latest version with composer 
 
 ```
-composer require kittinan/php-promptpay-qr
+composer require sb4tester/php-promptpay-qr
 ```
 
 ## Usage
