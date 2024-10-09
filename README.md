@@ -7,7 +7,7 @@
 PHP Library to generate QR Code payload for PromptPay inspired from [dtinth/promptpay-qr](https://github.com/dtinth/promptpay-qr)
 
 ## Requirement
-- PHP 5.4+
+- PHP 8.0+
 - [GD Extension](http://php.net/manual/en/book.image.php) (For Generate QR Code)
 
 ## Composer
